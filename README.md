@@ -11,6 +11,7 @@ An interactive, fully offline, desktop-based Java quiz application built with **
 - 📊 Instant result and percentage display
 - 💻 Fully offline – No internet or database required
 
+## 📁 Project Structure
 
 OnlineJavaQuiz/ ├── OnlineTest.java # Source file containing the main application ├── OnlineTest.class # Compiled class file (optional, can regenerate) └── Project-Report.docx # Detailed report outlining design, objectives, and methodology
 
