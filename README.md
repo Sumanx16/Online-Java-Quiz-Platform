@@ -1,4 +1,3 @@
-# 🧠 Online Java Quiz System
 
 An interactive, fully offline, desktop-based Java quiz application built with **Java Swing**. This project is designed for educational environments to conduct multiple-choice quizzes without requiring internet connectivity or complex setup.
 
